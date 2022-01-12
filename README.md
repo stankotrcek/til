@@ -25,6 +25,10 @@
 - [Setting Up Shell with zsh and Autosuggestions](https://aboutmonica.com/blog/setting-up-zsh-with-autosuggestions/)
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 
+### Markdown
+
+- [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+
 ### PowerShell
 
 ### Programska oprema
@@ -40,11 +44,11 @@
 - [fugue SQL poizvedbe za df](https://fugue-tutorials.readthedocs.io/index.html)
 
 
-### Terminal [:blush:](#kazalo) :blush:
+### Terminal [:top:](#kazalo) 
 
 - [tabby terminal](https://tabby.sh/)
 
-### VSCODE
+### VSCODE [:top:](#kazalo)
 
 #### VSCODE theme
 
