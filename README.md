@@ -73,6 +73,7 @@ mit.edu tečaj
 
 ### Python
 - [VSCODE code folding](python/vscode-folding.md)
+- [dateparser – python parser for human readable dates](https://dateparser.readthedocs.io/en/latest/index.html)
 
 #### Pandas
 - [fugue SQL poizvedbe za df](https://fugue-tutorials.readthedocs.io/index.html)
