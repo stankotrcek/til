@@ -72,6 +72,7 @@ mit.edu tečaj
 
 
 ### Python
+- [VSCODE code folding](python/vscode-folding.md)
 
 #### Pandas
 - [fugue SQL poizvedbe za df](https://fugue-tutorials.readthedocs.io/index.html)
