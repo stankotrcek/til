@@ -5,7 +5,7 @@
 - [GitHub](#github)
 - [Latex](#Latex)
 - [Linux](#linux)
-- [Programska oprema](#programska-oprema)
+- [Programiranje](#programiranje)
 - [PowerShell](#PowerShell)
 - [Python](#python)
     - [Pandas](#Pandas)
@@ -64,10 +64,11 @@ mit.edu tečaj
 
 ### PowerShell
 
-### Programska oprema
+### Programiranje
 
 - [gh-trends](https://github.com/nschloe/gh-trends)
 - [font FiraCode](https://github.com/tonsky/FiraCode)
+- [Seznam spletnih orodij](programiranje/free-cloud-services.md)
 
 
 
