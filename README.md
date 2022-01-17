@@ -22,7 +22,7 @@
 
 #### Shell
 
-
+[mit.edu - tečaj](linux/mit-edu-tecaj.md)
 
 2019
 
