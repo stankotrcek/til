@@ -1,6 +1,6 @@
 # mit.edu tečaj
 
-- [Lecture 1: Course Overview + The Shell](https://missing.csail.mit.edu/2020/course-shell/) [:yt:](https://www.youtube.com/watch?v=Z56Jmr9Z34Q&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J&index=1)
+- [Lecture 1: Course Overview + The Shell](https://missing.csail.mit.edu/2020/course-shell/) [:tv:](https://www.youtube.com/watch?v=Z56Jmr9Z34Q&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J&index=1)
 - [Lecture 2: Shell Tools and Scripting](https://missing.csail.mit.edu/2020/shell-tools/)
 - https://www.youtube.com/watch?v=kgII-YWo3Zw&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J&index=2
 - [Lecture 3: Editors (vim)](https://missing.csail.mit.edu/2020/editors/)
