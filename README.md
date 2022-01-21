@@ -14,6 +14,9 @@
 - [Upravljanje znanja](#Upravljanje-znanja)
 
 ### GitHub
+-[Create a resume website in your browser](https://www.youtube.com/watch?v=M2IrPFMFwx8)
+
+
 ### Latex
 
 - [Nastavitve](latex/nastavitve.md)
@@ -55,6 +58,9 @@
 
 #### Pandas
 - [fugue SQL poizvedbe za df](https://fugue-tutorials.readthedocs.io/index.html)
+
+#### Orodja
+- [SageMaker Studio Lab](sage-maker-lab.md)
 
 
 ### Terminal [:top:](#kazalo) 
