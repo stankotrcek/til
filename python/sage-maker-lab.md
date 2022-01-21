@@ -1,6 +1,6 @@
 # SageMaker Studio Lab
 
-[Domov](/readme.md)
+[Domov](../README.md)
 
 alternativa Google Colab 
 
